@@ -15,7 +15,7 @@ System > Reporting, check both "Report CPU usage in percent" and "Graphite Separ
 
 2. Create a Graphite data source in Grafana, using VictoriaMetrics (or another solution) as the source.
 
-3. Import the dashboard using the `dashboard-truenas.json` file, or via the public Grafana dashboard library.
+3. Import the dashboard using the `dashboard-truenas.json` file, or via the public Grafana [dashboard library](https://grafana.com/grafana/dashboards/22925-truenas-core-v13/).
 
 ## Notes
 
